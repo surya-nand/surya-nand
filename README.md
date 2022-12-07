@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @surya-nand
-- 👀 I’m interested in startup
-- 🌱 I’m currently learning python and deep learning 
+- 👀 I’m interested in learning new things
+- 🌱 Working on 100days of python
 - 💞️ I’m looking to collaborate on website development 
 - 📫 You can connect me through Linkedin (Anand Pvvs)
 
