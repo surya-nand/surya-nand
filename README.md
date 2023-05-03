@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @surya-nand
-- 👀 Exploring software developement
-- 🌱 Learning full stack developement
-- 💞️ I’m looking to collaborate with other peers
+- 👀 Exploring
+- 🌱 Learning
 - 📫 You can connect me through Linkedin (Anand Pvvs)
 
 <!---
