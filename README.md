@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @surya-nand
-- 👀 Exploring
-- 🌱 Learning
+- 👀 
+- 🌱 Exploring MERN stack 
 - 📫 You can connect with me through Linkedin (Anand Pvvs)
 
 <!---
