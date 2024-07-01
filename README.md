@@ -1,5 +1,5 @@
 <h1 align="center">Hi folks👋, I'm Surya Anand</h1>
-<h3 align="center">MERN stack developer</h3>
+<h3 align="center">P/MERN stack developer</h3>
 <img align="right" width="40%" height="40%" src="https://img.freepik.com/free-vector/static-asset-illustration-concept_114360-885.jpg?size=626&ext=jpg&ga=GA1.1.1806024865.1694116047&semt=ais"?size=626&ext=jpg"  alt="vector"></img>
 <!-- https://img.freepik.com/free-vector/static-asset-illustration-concept_114360-885.jpg?size=626&ext=jpg&ga=GA1.1.1806024865.1694116047&semt=ais -->
 
@@ -8,9 +8,9 @@
 
 
 
-- 🌱 I’m currently learning **Advanced React**
+- 🌱 I’m currently learning **webRTC**
 
-- 💬 Ask me about **Javascript, React, NodeJs**
+- 💬 Ask me about **Javascript, React,NextJs NodeJs**
 
 - 📫 How to reach me **suryaanand10@gmail.com**
 
