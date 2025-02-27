@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **webRTC**
+- 🌱 Migrated to gitlab **https://gitlab.com/suryacent**
 
 - 💬 Ask me about **Javascript, React,NextJs NodeJs**
 
